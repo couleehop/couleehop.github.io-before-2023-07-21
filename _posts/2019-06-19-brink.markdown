@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Jumptown Swing at the Brink"
+date:   2019-06-19 19:00:00
+categories: jekyll update
+---
+
+<div class="entry-content">
+<p>
+DJed dance, age 18+, $5 entrance, food and drink for purchase.
+Location: <a href="https://www.google.com/maps/place/The+Brink+Lounge/@43.0800902,-89.3783517,17z/data=!3m1!4b1!4m5!3m4!1s0x8806536bc7832503:0x1c1bd8de56039c26!8m2!3d43.0800863!4d-89.376163">The Brink Lounge</a>, Madison, WI.
+</p>
+</div>
