@@ -2,8 +2,15 @@
 layout: default
 ---
 
+<br><br>
+
 {% assign sortedposts = (site.posts | sort: 'date')  %}
 
 {% for post in sortedposts limit:20 %}
 <b>{{ post.title }}; {{ post.date| date: "%b %-d, %Y (%a) at %-I:%M %P" }}.</b> {{ post.content | truncate: 35000 }}</p>
 {% endfor %}
+
+<br><br>
+<b>Want to see events further in the future? Visit <a href="https://couleehop.github.io/">https://couleehop.github.io/</a></b>
+
+
