@@ -6,8 +6,10 @@ categories: jekyll update
 ---
 
 <div class="entry-content">
-<p>This string band is a blend of Irish, American, bluegrass, blues, and swing.
+<p>
+  This string band is a blend of Irish, American, bluegrass, blues, and swing.
 They are playing as part of the Harmony in the Neighborhood series.
-Thursday, June 13, 2019 at 7:00pm at the <a href="https://www.google.com/maps/place/South+Side+Neighborhood+Center/@43.7982601,-91.2512429,17z/data=!3m1!4b1!4m5!3m4!1s0x87f955767663153d:0x559ad4d7088d6d3a!8m2!3d43.7982562!4d-91.2490542">South Side Neighborhood Center</a> (La Crosse, WI). 
+Thursday, June 13, 2019 at 7:00pm at the <a href="https://www.google.com/maps/place/South+Side+Neighborhood+Center/@43.7982601,-91.2512429,17z/data=!3m1!4b1!4m5!3m4!1s0x87f955767663153d:0x559ad4d7088d6d3a!8m2!3d43.7982562!4d-91.2490542">South Side Neighborhood Center</a> (La Crosse, WI).
 </p>
+
 </div>
