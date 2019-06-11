@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pigtown Flight String Band at Harmony in the Neighborhood"
+title:  "Pigtown Fling String Band at Harmony in the Neighborhood"
 date:   2019-06-13 19:00:00
 categories: jekyll update
 ---
