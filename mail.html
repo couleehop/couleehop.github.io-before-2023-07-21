@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% assign sortedposts = (site.posts | sort: 'date')  %}
+
+{% for post in sortedposts limit:20 %}
+{{ post.date| date: "%b %-d, %Y (%a) at %-I:%M %P" }}<br>
+{{ post.title }}
+<p>{{ post.content | truncate: 35000 }}</p>
+{% endfor %}
