@@ -7,5 +7,5 @@ categories: jekyll update
 
 <div class="entry-content">
 <p>Dance to the tunes of the La Crosse Jazz Orchestra and TUGG at Moon Tunes.
-Thursday, June 20 from 5:30pm to 8:00pm at Riverside Park.</p>
+June 20 from 5:30pm to 8:00pm at <a href="https://goo.gl/maps/KDpiw28dtVzuYyKh7">Riverside Park Bandshell</a> (La Crosse, WI).</p>
 </div>
