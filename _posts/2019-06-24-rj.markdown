@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Rhythm Junction at Four Seasons Dance Studio"
+date:   2019-06-24 20:00:00
+categories: jekyll update
+---
+
+<div class="entry-content">
+<p>DJed dance hosted by <a href="https://www.rhythm-junction.com/">Rhythm Junction</a>
+at <a href="https://www.google.com/maps/place/Four+Seasons+Dance+Studio/@44.9716573,-93.2883222,17z/data=!3m1!4b1!4m5!3m4!1s0x52b332e9e2f722b9:0x1d1307d09ff2dcdf!8m2!3d44.9716535!4d-93.2861335">Four Seasons Dance Studio</a> (Minneapolis, MN)</p>
+
+<p>Just $6, with a dollar off if you arrive in the first 30 minutes!</p>
+
+</div>
