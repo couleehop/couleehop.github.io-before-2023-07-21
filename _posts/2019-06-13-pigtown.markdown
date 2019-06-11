@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pigtown Flight String Band at Harmony in the Neighborhood"
+date:   2019-06-13 19:00:00
+categories: jekyll update
+---
+
+<div class="entry-content">
+<p>This string band is a blend of Irish, American, bluegrass, blues, and swing.
+They are playing as part of the Harmony in the Neighborhood series.
+Thursday, June 13, 2019 at 7:00pm at the South Side Neighborhood Center.
+</p>
+</div>
