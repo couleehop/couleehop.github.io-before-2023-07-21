@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La Crosse Jazz Orchestra and TUGG at Moon Tunes
+title:  "La Crosse Jazz Orchestra and TUGG at Moon Tunes"
 date:   2019-06-20 17:30:00
 categories: jekyll update
 ---
