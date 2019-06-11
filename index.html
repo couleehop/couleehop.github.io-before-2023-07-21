@@ -13,7 +13,7 @@ layout: default
     </h2>
     <time>{{ post.date| date: "%m/%d/%Y" }}</time>
     <p>
-      {{ post.content | strip_html | truncate: 250 }}
+      {{ post.content | truncate: 350 }}
     </p>
   </article>
 {% endfor %}
