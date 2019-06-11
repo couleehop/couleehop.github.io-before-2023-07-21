@@ -1,13 +1,13 @@
 # Site settings
-title:        "block-Log"
-description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
+title:        "Coulee Hop"
+description:  "Lindy hop, east coast swing, west coast swing, balboa, shag, charleston, blues, and traditional jazz in the Coulee Region"
 baseurl:      "" # the subpath of your site, e.g. /blog/
-url:          "http://yourdomain.com" # the base hostname & protocol for your site
+url:          "https://couleehop.github.io/" # the base hostname & protocol for your site
 permalink:    /:year/:title
-github:       "yourusername"
-twitter:      "yourusername"
-email:        "mail@example.com"
-disqus-id:    "example" #leave blank if you dont want comments.
+github:       "couleehop"
+twitter:      "couleehop"
+email:        "couleehop@gmail.com"
+disqus-id:    "" #leave blank if you dont want comments.
 
 # Build settings
 markdown:     kramdown
