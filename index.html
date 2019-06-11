@@ -11,7 +11,7 @@ layout: default
     <h2>
       <a class="red" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
-    <time>{{ post.date| date: "%m/%d/%Y" }}</time>
+    <time>{{ post.date| date: "%b %-d, %Y (%a) at %I:%M %P" }}</time>
     <p>
       {{ post.content | truncate: 350 }}
     </p>
