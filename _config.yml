@@ -1,6 +1,6 @@
 # Site settings
-title:        "Coulee Hop - La Crosse, WI"
-description:  "Lindy hop, east coast swing, west coast swing, balboa, shag, charleston, blues, and traditional jazz in the Coulee Region"
+title:        "Coulee Hop"
+description:  "Lindy hop, east coast swing, west coast swing, balboa, shag, charleston, blues, and traditional jazz in the Coulee Region (La Crosse, WI)"
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "https://couleehop.github.io/" # the base hostname & protocol for your site
 permalink:    /:year/:title
