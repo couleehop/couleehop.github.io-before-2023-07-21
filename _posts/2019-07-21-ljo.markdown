@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Jazz In The Park with the La Crosse Jazz Orchestra"
+date:   2019-07-21 19:00:00
+categories: jekyll update
+---
+
+<div class="entry-content">
+<p>Jazz In The Park - Sunday, July 21 at 7:00 pm, at Riverside Park.</p>
+
+<p>Bring a chair or blanket! Benches will return in September.
+(Rain Site: The Cavalier Theater)</p>
+
+</div>
