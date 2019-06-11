@@ -7,7 +7,7 @@ categories: jekyll update
 
 <div class="entry-content">
 <p>Jazz In The Park - Sunday, June 16 at 7:00 pm.
-	Big Band Jazz Concert in beautiful Riverside Park!</p>
+	Big Band Jazz Concert in <a href="https://goo.gl/maps/KDpiw28dtVzuYyKh7">Riverside Park Bandshell</a> (La Crosse, WI)</p>
 
 <p>Bring a chair or blanket! Benches will return in September.
 (Rain Site: The Cavalier Theater)</p>
