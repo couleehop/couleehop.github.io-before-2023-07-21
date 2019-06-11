@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <div class="entry-content">
-<p>Jazz In The Park - Sunday, July at 7:00 pm, at Riverside Park, La Crosse, WI.</p>
+<p>Jazz In The Park - Sunday, July at 7:00 pm, at <a href="https://goo.gl/maps/KDpiw28dtVzuYyKh7">Riverside Park Bandshell</a> (La Crosse, WI)</p>
 
 <p>Bring a chair or blanket! Benches will return in September.
 (Rain Site: The Cavalier Theater)</p>
