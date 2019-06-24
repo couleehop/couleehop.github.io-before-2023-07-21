@@ -6,6 +6,9 @@ layout: default
 
 {% assign sortedposts = (site.posts | sort: 'date')  %}
 
+Upcoming events:
+{% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+
 {% for post in sortedposts limit:100 %}
 {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
 {% if date > now %}
