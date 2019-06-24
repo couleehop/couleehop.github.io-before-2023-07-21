@@ -7,6 +7,7 @@ layout: default
 {% assign sortedposts = (site.posts | sort: 'date')  %}
 
 {% for post in sortedposts limit:100 %}
+{% if post.date >= now %}
   <article class="module color3">
     <h2>
       <a class="red" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -16,6 +17,7 @@ layout: default
       {{ post.content | truncate: 35000 }}
     </p>
   </article>
+{% endif %}
 {% endfor %}
 
 <section class="module color3">
