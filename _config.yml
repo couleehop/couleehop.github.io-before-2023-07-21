@@ -3,7 +3,7 @@ title:        "Coulee Hop"
 description:  "Lindy hop, east coast swing, west coast swing, balboa, shag, charleston, blues, and traditional jazz in the Coulee Region (La Crosse, WI)"
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "https://couleehop.github.io/" # the base hostname & protocol for your site
-permalink:    /:year/:title
+permalink:    /:year/:month/:day/:title
 github:       "couleehop"
 twitter:      "couleehop"
 email:        "couleehop@gmail.com"
